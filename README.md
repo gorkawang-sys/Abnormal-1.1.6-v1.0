@@ -166,7 +166,8 @@ Abnormal/
 
 ## 截图
 
-*TODO: 添加截图*
+*TODO: <img width="1911" height="1056" alt="image" src="https://github.com/user-attachments/assets/c25600f7-4ff5-4f19-96e1-1d9dfec08844" />
+*
 
 ## 许可证
 
