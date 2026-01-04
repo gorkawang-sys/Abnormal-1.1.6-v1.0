@@ -158,15 +158,9 @@ Abnormal/
 **如果这个汉化版对你有帮助,请给个 ⭐ Star!**
 
 
-## 文档
-
-- [安装指南](修复说明_v3.md)
-- [故障排除](翻译问题排查指南.md)
-- [术语对照](翻译对照表.md)
-
 ## 截图
 
-*TODO: <img width="1911" height="1056" alt="image" src="https://github.com/user-attachments/assets/c25600f7-4ff5-4f19-96e1-1d9dfec08844" />
+* <img width="1911" height="1056" alt="image" src="https://github.com/user-attachments/assets/c25600f7-4ff5-4f19-96e1-1d9dfec08844" />
 *
 
 ## 许可证
